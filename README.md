@@ -6,17 +6,17 @@ This project is a front‑end clone of a messaging‑app interface inspired by W
 
 ✨ Features
 
-Responsive chat‑app layout: sidebar + chat window + header bar.
+-Responsive chat‑app layout: sidebar + chat window + header bar.
 
-Styled message bubbles for sent and received messages.
+-Styled message bubbles for sent and received messages.
 
-Simulated chat switching — users can click on chats in the sidebar to view corresponding conversation windows.
+-Simulated chat switching — users can click on chats in the sidebar to view corresponding conversation windows.
 
-Clean, semantic HTML markup and structured CSS for layout, spacing, and alignment.
+-Clean, semantic HTML markup and structured CSS for layout, spacing, and alignment.
 
-Responsive design — adapts to different screen widths (desktop / mobile‑like viewports).
+-Responsive design — adapts to different screen widths (desktop / mobile‑like viewports).
 
-Basic UI interactions using JavaScript (e.g., toggling chats, rendering message bubbles).
+-Basic UI interactions using JavaScript (e.g., toggling chats, rendering message bubbles).
 
 
 📂 Technologies Used
@@ -31,7 +31,7 @@ Vanilla JavaScript (for basic front‑end interactivity)
 
 Clone the repository:
 
-git clone https://github.com/AbbassHazimeh/Whatsapp.git
+        git clone https://github.com/AbbassHazimeh/Whatsapp.git
 
 
 Navigate into the project folder and open index.html in your browser.
@@ -45,17 +45,6 @@ Interact with the UI — click on chats in the sidebar to view corresponding mes
 This project served as a learning exercise in front‑end development — practicing semantic HTML structure, responsive CSS design, layout management, and basic dynamic behavior with JavaScript. It helped me understand how to translate a design or mock‑up into a functional, responsive interface without using frameworks. It also reinforced core front‑end skills, which are essential for building more complex web applications in the future.
 
 
-📚 Potential Improvements / Next Steps
-
-Implement actual messaging functionality with a backend (e.g. Node.js + WebSocket) to enable real‑time chat.
-
-Add user authentication and user profiles.
-
-Enhance UI: show message timestamps, read status, message input box, scroll to latest message, etc.
-
-Make the UI fully responsive across devices and screen sizes (mobile, tablet, desktop).
-
-
 🧑‍💻 About the Author
 
-This project is part of my personal portfolio — created while learning web development (HTML, CSS, JavaScript). It reflects my interest in UI/UX design and front‑end fundamentals.
+This project is part of my personal portfolio — created while learning web development (HTML, CSS, JavaScript).
